@@ -1,6 +1,9 @@
 # Doubt Solving Agent
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## Project Context
+
+This project was developed as part of my Software Development Internship at Creospan Pvt. Ltd. It is a student-focused doubt-solving assistant built using Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG).
 
 This project implements a conversational AI assistant focused on physics, leveraging Retrieval-Augmented Generation (RAG) to answer questions based on uploaded PDF documents. The chatbot is built using Streamlit for the user interface and the Groq API for language model inference.
 
